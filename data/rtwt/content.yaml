@@ -1,0 +1,14 @@
+home:
+  image: 'images/dp.jpeg'
+  greetings: 'Sahriar Rahman Nahid'
+  text: 'Hey gang! Welcome to my blog — this is where we go beyond the ordinary.'
+
+side:
+  home:
+    - content: 'Follow me on GitHub for more projects and code!'
+      imagePath: 'images/gh_source.png'
+      imageHref: 'https://github.com/sahriarnahid'
+      imageWidth: '100%'
+
+    - title: 'About This Blog'
+      content: "Here you'll find practical programming guides, honest takes on tech, and resources that actually help you build better software."

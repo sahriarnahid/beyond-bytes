@@ -1,0 +1,17 @@
+[build.environment]
+HUGO_VERSION = "0.150.1"
+NODE_VERSION = "18"
+TZ = "UTC"
+
+[build]
+publish = "public"
+command = "hugo --gc --minify"
+
+[context.production.environment]
+HUGO_ENV = "production"
+
+[context.branch-deploy]
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview]
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"

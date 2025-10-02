@@ -1,0 +1,56 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Byte & Beyond'
+theme = 'rusty-typewriter'
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Enable the bio and author image on homepage
+[params.rtwt.home]
+  showBio = true
+  showAuthorImg = true
+  sidePaneTags = true
+  showFeatured = true
+  showRecent = true
+  hideRecentWhenFeatured = true
+  countRecent = 5
+
+# Author information
+[params.author]
+  name = 'Sahriar Rahman Nahid'
+
+# Enable taxonomies
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+# Main menu
+[[menus.main]]
+  name = 'Posts'
+  pageRef = '/posts'
+  weight = 1
+
+[[menus.main]]
+  name = 'About'
+  pageRef = '/about'
+  weight = 2
+
+# build search index ================
+[outputFormats]
+ [outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "searchindex"
+  isPlainText = true
+  notAlternative = true
+
+[mediaTypes]
+ [mediaTypes."application/json"]
+  suffixes = ["json"]
+
+[outputs]
+ home = ["HTML","RSS", "SearchIndex"]
+# ===================================
