@@ -1,10 +1,10 @@
-# 🚀 Byte & Beyond
+# 🚀 Beyond Bytes
 
 **Where code meets creativity** — My personal space to share programming adventures, tech thoughts, and the stuff I wish I knew when I started coding.
 
 <div align="center">
 
-![Website](https://img.shields.io/website?url=https%3A//byte-and-beyond.netlify.app)
+![Website](https://img.shields.io/website?url=https%3A//beyondbytes.netlify.app)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sahriarnahid/byte-and-beyond)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sahriarnahid/byte-and-beyond)
 
@@ -31,7 +31,7 @@ Modern web tech, responsive design, client-side search, automated deployments, a
 
 ## Live Site 🌐
 
-Check it out: **[byte-and-beyond.netlify.app](https://byte-and-beyond.netlify.app)**
+Check it out: **[beyondbytes.netlify.app](https://beyondbytes.netlify.app)**
 
 ---
 
@@ -42,6 +42,6 @@ Check it out: **[byte-and-beyond.netlify.app](https://byte-and-beyond.netlify.ap
 _Building the future, one byte at a time._
 
 [![GitHub](https://img.shields.io/badge/Follow-sahriarnahid-181717?style=flat&logo=github)](https://github.com/sahriarnahid)
-[![Website](https://img.shields.io/badge/Visit-Byte%20&%20Beyond-blue?style=flat&logo=safari)](https://byte-and-beyond.netlify.app)
+[![Website](https://img.shields.io/badge/Visit-Beyond%20Bytes-blue?style=flat&logo=safari)](https://beyondbytes.netlify.app)
 
 </div>
