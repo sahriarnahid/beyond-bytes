@@ -7,7 +7,7 @@ side:
   home:
     - content: 'Follow me on GitHub for more projects and code!'
       imagePath: 'images/gh_source.png'
-      imageHref: 'https://github.com/sahriarnahid/byte-and-beyond'
+      imageHref: 'https://github.com/sahriarnahid/beyond-bytes'
       imageWidth: '100%'
 
     - title: 'About This Blog'

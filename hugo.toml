@@ -1,4 +1,4 @@
-baseURL = 'https://beyondbytes.netlify.app/'
+baseURL = 'https://beyondbytes.site/'
 languageCode = 'en-us'
 title = 'Beyond Bytes'
 theme = 'rusty-typewriter'
