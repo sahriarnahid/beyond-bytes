@@ -5,8 +5,8 @@
 <div align="center">
 
 ![Website](https://img.shields.io/website?url=https%3A//beyondbytes.site)
-![GitHub last commit](https://img.shields.io/github/last-commit/sahriarnahid/byte-and-beyond)
-![GitHub repo size](https://img.shields.io/github/repo-size/sahriarnahid/byte-and-beyond)
+![GitHub last commit](https://img.shields.io/github/last-commit/sahriarnahid/beyond-bytes)
+![GitHub repo size](https://img.shields.io/github/repo-size/sahriarnahid/beyond-bytes)
 
 </div>
 
@@ -16,7 +16,10 @@ I'm **Nahid**, and this is my little corner of the internet where I dump everyth
 
 ## What's Inside? 🎯
 
-**Programming Guides** that actually make sense • **Tech reviews** without the marketing speak • **Resources** I actually use (not just bookmarked) • **Stories** from the trenches of development
+**Programming Guides** that actually make sense • **Comprehensive CS Resources** for students and professionals • **Tech reviews** without the marketing speak • **Curated Learning Lists** I actually use (not just bookmarked) • **Stories** from the trenches of development
+
+### Latest Addition 📚
+**Essential Resources for Computer Science Students** - A comprehensive, curated collection of 200+ educational websites, tools, and platforms organized by category to help CS students excel in their studies and career preparation.
 
 ## Cool Features ✨
 
